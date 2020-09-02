@@ -1,0 +1,63 @@
+/* Change the selector names below to the correct class(es) to generate the final image */
+selector_1{
+  text-align: center;
+}
+
+selector_2{
+  display: grid;
+  grid-template-columns: repeat(7, 50px);
+  justify-content: center;
+}
+
+selector_3{
+  text-align: center;
+  font-size: 15px;
+}
+
+selector_4{
+  text-align: center;
+  color: grey;
+  font-size: 10px;
+}
+
+selector_5{
+  text-align: center;
+  text-decoration: underline;
+}
+
+selector_6{
+  width: 95%;
+  height: 95%;
+  margin: auto;
+  border-radius: 50%;
+  display:block;
+  border: solid grey thin;
+}
+
+selector_7{
+  display: block;
+  height: 50px;
+  width: 50px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 150%;
+}
+
+selector_8{
+  display: block;
+  height: 95%;
+  width: 95%;
+  border-radius: 50%;
+  border: solid grey thin;
+  margin: auto;
+  background-color: blue;
+}
+
+selector_9{
+  background-color: black;
+}
+
+selector_10{
+  border: solid yellow thin;
+}
